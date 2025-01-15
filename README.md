@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 👨🏼‍💻Aspiring Software Developer.<br>👨🏼‍🎓 Completed Bachelor's in Computer Applications from Himalayan Institute of Technology.<br>
 
